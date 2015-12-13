@@ -1,6 +1,6 @@
 Package.describe({
   name: 'markoshust:owl-carousel-2',
-  version: '2.0.0-beta.3',
+  version: '2.0.0-beta.3a',
   summary: 'Owl Carousel 2',
   git: 'https://github.com/markoshust/meteor-owl-carousel-2',
   documentation: 'README.md'

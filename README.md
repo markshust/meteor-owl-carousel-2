@@ -17,7 +17,7 @@ $('.owl-carousel').owlCarousel();
 ... and setup your carousel HTML:
 
 ```
-<div ref='owl-carousel'>
+<div class='owl-carousel'>
   <div> Your Content </div>
   <div> Your Content </div>
   <div> Your Content </div>
